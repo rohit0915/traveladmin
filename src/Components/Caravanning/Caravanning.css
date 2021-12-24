@@ -1,0 +1,8 @@
+.side_margin {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.img_height img {
+  height: 50px;
+  width: 50px;
+}
